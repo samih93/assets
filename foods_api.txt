@@ -140,7 +140,7 @@
 		"address":"A108 Adam Street, New York, NY 535022",
 		"email":"contact@example.com",
 		"phone":"+1 5589 55488 55",
-		"openingHours":"<strong>Mon-Sat:</strong> 11AM - 23PM;<strong>Sunday:</strong> Closed"
+		"openingHours":"<div><strong>Mon-Sat:</strong> 11AM - 23PM</div><div><strong>Sunday:</strong> Closed</div"
 	},
 	"followUs":{
 		"twitter":"https://www.twitter.com",
